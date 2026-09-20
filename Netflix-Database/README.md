@@ -1,10 +1,10 @@
 # Netflix Data Pipeline: End-to-End Engineering on GCP
 
-This project demonstrates a complete data engineering and analytics pipeline, moving from raw data ingestion to the creation of business intelligence dashboards[1][2]. It utilizes **Google Cloud Platform (GCP)** for infrastructure and **Docker** to orchestrate the visualization environment.
+This project demonstrates a complete data engineering and analytics pipeline, moving from raw data ingestion to the creation of business intelligence dashboards. It utilizes **Google Cloud Platform (GCP)** for infrastructure and **Docker** to orchestrate the visualization environment.
 
 ## 📊 Dataset Information
 
-The project uses the **MovieLens ml\_belief\_2024** dataset provided by GroupLens Research[4]. It contains six CSV files encompassing movie metadata, user ratings, and recommendation histories.
+The project uses the **MovieLens ml\_belief\_2024** dataset provided by GroupLens Research. It contains six CSV files encompassing movie metadata, user ratings, and recommendation histories.
 
 * **Download the data here**: [MovieLens ml\_belief\_2024 Dataset](https://www.google.com/url?sa=E&amp;q=https%3A%2F%2Fgrouplens.org%2Fdatasets%2Fmovielens%2Fml%5Fbelief%5F2024%2F)
 
